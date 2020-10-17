@@ -30,7 +30,7 @@
 <img src="project/about_design.png" alt="Logo" width="800px" img=center>
 </p>
 <br>
-With design thinking being the hot trend of 2019 and going strong in 2020 so far, there has never been a better time for designers to innovate, collaborate and join hands to become a collective force of nature that designs to make lives easier and better. Make a stride towards achieving an awesome community of designers with Productly landing page, a beautiful UI concept by [**Abdullah Un Noman.**](https://dribbble.com/unnoman)
+With design thinking being the hot trend of 2019 and going strong in 2020 so far, there has never been a better time for designers to innovate, collaborate and join hands to become a collective force of nature that designs to make lives easier and better. Make a stride towards achieving an awesome community of designers with Productly landing page, a beautiful UI concept by [**Abdullah Un Noman.](https://dribbble.com/unnoman)
 
 ### Built With
 The following tools were used in the construction of the project:
@@ -59,7 +59,7 @@ cd design-thinking-bootstrap
 <!-- CONTRIBUTING -->
 ## Contributing
 </br>
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
