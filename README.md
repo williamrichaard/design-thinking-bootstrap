@@ -14,7 +14,7 @@
     <a href="https://github.com/williamrichaard/design-thinking-bootstrap"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://williamrichaard.github.io/design-thinking-bootstrap/.">View Demo</a>
     ·
     <a href="https://github.com/williamrichaard/design-thinking-bootstrap/issues">Report Bug</a>
     ·
